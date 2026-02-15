@@ -1,7 +1,7 @@
 # Hi 👋 I'm Imam Raj
 
 🎓 B.Tech Information Technology (2021–2025)  
-💻 Python Full Stack Developer  
+💻 Software Developer  
 📍 Tirunelveli, Tamil Nadu  
 
 ---
