@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋 I'm Imam Raj
 
-<!--
-**IMAMRAJ22/IMAMRAJ22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology (2021–2025)  
+💻 Python Full Stack Developer  
+📍 Tirunelveli, Tamil Nadu  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate Python Full Stack Developer seeking an opportunity to apply my web development skills in a dynamic and innovative organization. I enjoy building real-world applications using Django and React.js.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+
+### ⚙️ Backend
+- Python
+- Django
+- FastAPI
+
+### 🗄️ Database
+- MySQL
+
+### 🔧 Tools
+- Git
+- GitHub
+- Axios
+- Render (Deployment)
+
+---
+
+## 📌 Projects
+
+### 🎯 SmartQuiz – Full Stack Quiz Application
+- React.js + Django based Quiz Platform
+- Category-wise questions
+- Timer functionality
+- Live scoring
+- REST API Integration
+
+🔗 Live Demo: https://myquizapp-56iu.onrender.com
+
+---
+
+### 📝 Quiz Web Application (Django)
+- User Registration & Login
+- Admin Panel
+- Real-time Score Calculation
+- MySQL Database Integration
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: imamraj2003@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/imam-raj-v-7317412a5/
