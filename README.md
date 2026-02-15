@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate Python Full Stack Developer seeking an opportunity to apply my web development skills in a dynamic and innovative organization. I enjoy building real-world applications using Django and React.js.
+I am a passionate Software Developer seeking an opportunity to apply my web development skills in a dynamic and innovative organization. I enjoy building real-world applications using Django and React.js.
 
 ---
 
